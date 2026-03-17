@@ -2,11 +2,6 @@ from unittest.mock import Mock, create_autospec
 from typing import Protocol
 
 
-# =============================================================================
-# Spec attribute
-# =============================================================================
-
-
 class FetcherProtocol(Protocol):
     def fetch(self, item_id: int) -> str: ...
 
