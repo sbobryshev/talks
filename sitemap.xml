@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sbobryshev.github.io/talks/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://sbobryshev.github.io/talks/1_mock_existent_method/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://sbobryshev.github.io/talks/2_mock_non_existent_method/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://sbobryshev.github.io/talks/3_side_effect_exception/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://sbobryshev.github.io/talks/4_side_effect_content/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://sbobryshev.github.io/talks/5_spec/</loc>
+         <lastmod>2026-03-17</lastmod>
+    </url>
+</urlset>
